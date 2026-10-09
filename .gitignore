@@ -1,0 +1,6 @@
+.env
+
+# .env
+API_KEY=sk-1234567890abcdef
+DATABASE_URL=sqlite:///myapp.db
+DEBUG=True
