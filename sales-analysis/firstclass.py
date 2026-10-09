@@ -13,4 +13,4 @@ class Class(School):
 
 c = Class("ARS")
 c.teachers()
-c.student(4)
+c.student(6)
